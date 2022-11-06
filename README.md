@@ -1,6 +1,6 @@
 # Welcome!
 
-I'm David, a high school software developer born and raised in the Bay Area (California). This github page is for projects I find interesting, whether they're for classes, clubs, or just random personal interests. Please feel free to explore!
+I'm David, a college software developer born and raised in the Bay Area, now at Carnegie Mellon University. This github page is for projects I find interesting, whether they're for classes, clubs, or just random personal interests. Please feel free to explore!
 
 ## github stats
 
