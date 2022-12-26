@@ -9,9 +9,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=code49&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=code49&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=code49&icon=4&color=4)](https://visitcount.itsvg.in)
 
